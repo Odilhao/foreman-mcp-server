@@ -101,7 +101,7 @@ coherent-licensed==0.5.2 \
     #   jaraco-context
     #   jaraco-functools
     #   keyring
-cython==3.2.5 \
+cython==3.2.8 \
     --hash=sha256:05c22cd606ac8d14a9cf17e48668bb37734c803978bf4d793c7f11ef54c4451f \
     --hash=sha256:0a81220817ff954eddf4512a5b82089094a2f523eb1dc4ad555efd6f07b009b4 \
     --hash=sha256:0bc29c7f870b09efdb1f583fbec9592b33af81a7ce273b89c8f5163d7572d5c1 \
@@ -382,11 +382,11 @@ semantic-version==2.10.0 \
     --hash=sha256:bdabb6d336998cbb378d4b9db3a4b56a1e3235701dc05ea2690d9a997ed5041c \
     --hash=sha256:de78a3b8e0feda74cabc54aab2da702113e33ac9d9eb9d2389bcf1f58b7d9177
     # via setuptools-rust
-setuptools-rust==1.12.1 \
+setuptools-rust==1.13.0 \
     --hash=sha256:85ae70989d96c9cfeb5ef79cf3bac2d5200bc5564f720a06edceedbdf6664640 \
     --hash=sha256:b7ebd6a182e7aefa97a072e880530c9b0ec8fcca8617e0bb8ff299c1a064f693
     # via maturin
-setuptools-scm==10.1.2 \
+setuptools-scm==10.2.0 \
     --hash=sha256:24079818acc46e99aae0d65b8d511fafe965970d9cbd060c7b9f7275ded520fb \
     --hash=sha256:8bb17e208fb22ebc11e4eaf6d765955db1903eefd21a3f0ed5518fc3fb186e84
     # via
@@ -410,7 +410,7 @@ trove-classifiers==2026.6.1.19 \
     --hash=sha256:ab4c4ec93cc4a4e7815fa759906e05e6bb3f2fbd92ea0f897288c6a43efd15b3 \
     --hash=sha256:c5132b4b61a829d11cfbd2d72e97f20a45ed6edb95e45c5efdeb5e00836b2745
     # via hatchling
-uv-build==0.11.24 \
+uv-build==0.11.26 \
     --hash=sha256:051995e9ae0f8ce7d45c68b41ea92771d9f0e5ab863734ec38b8f58613ff2b1f \
     --hash=sha256:1637aa1363669b0c5f7fd02721194802cfcbb903d85935a865b529a60bdf1de6 \
     --hash=sha256:3515e95b28ff73642e8659b10cf4820520a53f98951c7320fdad5ee4f5525ee5 \
@@ -439,7 +439,7 @@ uv-dynamic-versioning==0.14.0 \
     #   fastmcp-slim
     #   griffelib
     #   mcp
-vcs-versioning==2.1.2 \
+vcs-versioning==2.2.2 \
     --hash=sha256:7282122aee5de69d520a9dbe56ebac705a0be7e2cc9b1b97dde4333c45fe782c \
     --hash=sha256:d559440f0cb46b6672e65492c34eadd45a736d61d5b28d43ae1ad37bc4a9f06f
     # via setuptools-scm
