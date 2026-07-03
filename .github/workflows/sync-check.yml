@@ -19,7 +19,7 @@ jobs:
       image: quay.io/centos/centos:stream9
     
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
     
     - name: Set up Python
       run: dnf install -y gcc make cmake cargo libffi-devel python3.12-devel python3.12-wheel python3.12-pip diffutils
